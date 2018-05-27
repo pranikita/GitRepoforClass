@@ -1,1 +1,2 @@
 File to check conflict on master mm11
+Revert the changes to see empty second line
